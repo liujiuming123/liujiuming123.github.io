@@ -30,6 +30,16 @@ main:
     notes: Published
     image: ./assets/img/paper/DifFlow3D.gif
 
+    - title: "Sni-slam: Semantic neural implicit slam"
+    authors: Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu, Liang Song, Marc Pollefeys, Hesheng Wang
+    conference_short: CVPR 2024
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.pdf
+    code: https://github.com/IRMVLab/SNI-SLAM
+    bibtex: https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.html
+    notes: Published
+    image: ./assets/img/paper/DifFlow3D.gif
+
   - title: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration"
     authors: Jiuming Liu, Guangming Wang, Chaokang Jiang, Zhe Liu, Hesheng Wang
     conference_short: ICCV 2023

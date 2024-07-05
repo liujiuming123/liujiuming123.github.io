@@ -1,6 +1,6 @@
 main:
   - title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
-    authors: **Jiuming Liu**, Dong Zhuo, Zhiheng Feng, Siting Zhu, Chensheng Peng, Zhe Liu, Hesheng Wang
+    authors: Jiuming Liu, Dong Zhuo, Zhiheng Feng, Siting Zhu, Chensheng Peng, Zhe Liu, Hesheng Wang
     conference_short: ECCV 2024
     conference: European Conference on Computer Vision 2024
     pdf: https://arxiv.org/pdf/2403.18274
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/paper/DVLO.png
   
   - title: "DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement"
-    authors: **Jiuming Liu**, Guangming Wang, Weicai Ye, Chaokang Jiang, Jinru Han, Zhe Liu, Guofeng Zhang, Dalong Du, Hesheng Wang
+    authors: Jiuming Liu, Guangming Wang, Weicai Ye, Chaokang Jiang, Jinru Han, Zhe Liu, Guofeng Zhang, Dalong Du, Hesheng Wang
     conference_short: CVPR 2024
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_DifFlow3D_Toward_Robust_Uncertainty-Aware_Scene_Flow_Estimation_with_Iterative_Diffusion-Based_CVPR_2024_paper.pdf
@@ -20,7 +20,7 @@ main:
     image: ./assets/img/paper/DifFlow3D.gif
 
   - title: "3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling"
-    authors: Chaokang Jiang, Guangming Wang, **Jiuming Liu**, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du
+    authors: Chaokang Jiang, Guangming Wang, Jiuming Liu, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du
     conference_short: CVPR 2024
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_3DSFLabelling_Boosting_3D_Scene_Flow_Estimation_by_Pseudo_Auto-labelling_CVPR_2024_paper.pdf

@@ -26,4 +26,5 @@ I am a second-year master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) i
 - **[Feb. 2024]** Our paper “SNI-SLAM: Semantic Neural Implicit SLAM” is accepted to [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.html).
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/projects.md %}
 {% include_relative _includes/services.md %}

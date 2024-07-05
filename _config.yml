@@ -1,22 +1,22 @@
 # Basic Information 
 title: Jiuming Liu
-position: CV Algorithm Engineer
-affiliation: PhiGent Robotics
-email: jck98@foxmail.com
+position: Master student 
+affiliation: Shanghai Jiao Tong University
+email: liujiuming@sjtu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Chaokang Jiang, 蒋超康, 
-description: Jiang Chaokang's personal academic homepage.
+keywords: Jiuming Liu, 刘久铭, 
+description: Jiuming Liu's personal academic homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=6gZ8vloAAAAJ&hl=zh-CN
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/jiangchaokang?tab=repositories
-openreview: https://openreview.net/profile?id=~Chaokang_Jiang1
-twitter: https://x.com/chaokangjiang1
+google_scholar: https://scholar.google.com/citations?user=j4YXCukAAAAJ&hl=zh-CN
+# cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/liujiuming123
+# openreview: https://openreview.net/profile?id=~Chaokang_Jiang1
+# twitter: https://x.com/chaokangjiang1
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

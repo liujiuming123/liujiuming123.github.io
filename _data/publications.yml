@@ -8,9 +8,19 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:v-3l9Cnmj6EJ:scholar.google.com/&output=citation&scisdr=ClGd-HygEIGetyfqcV0:AFWwaeYAAAAAZofsaV1TpSKJT9BPuaJOoWPHMRo&scisig=AFWwaeYAAAAAZofsacm-iF0jwxbZ4fr9I7O8gTs&scisf=4&ct=citation&cd=-1&hl=zh-CN 
     notes: Published
     image: ./assets/img/paper/DVLO.png
+  
+  - title: "DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement"
+    authors: **Jiuming Liu**, Guangming Wang, Weicai Ye, Chaokang Jiang, Jinru Han, Zhe Liu, Guofeng Zhang, Dalong Du, Hesheng Wang
+    conference_short: CVPR 2024
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_DifFlow3D_Toward_Robust_Uncertainty-Aware_Scene_Flow_Estimation_with_Iterative_Diffusion-Based_CVPR_2024_paper.pdf
+    code: https://github.com/IRMVLab/DifFlow3D
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j0TtQfGkk-MJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSs9FU:AFWwaeYAAAAAZm2q7FU15YFzVXt8G8heh_0c6Dw&scisig=AFWwaeYAAAAAZm2q7MfyVnbdo_cnZiKoZKunrKM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Published
+    image: ./assets/img/paper/DifFlow3D.gif
 
   - title: "3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling"
-    authors: Chaokang Jiang, Guangming Wang, Jiuming Liu, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du
+    authors: Chaokang Jiang, Guangming Wang, **Jiuming Liu**, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du
     conference_short: CVPR 2024
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_3DSFLabelling_Boosting_3D_Scene_Flow_Estimation_by_Pseudo_Auto-labelling_CVPR_2024_paper.pdf
@@ -19,16 +29,6 @@ main:
     bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.html
     notes: Published
     image: ./assets/img/paper/3DSFLabelling.gif
-
-  - title: "DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement"
-    authors: Jiuming Liu, Guangming Wang, Weicai Ye, Chaokang Jiang, Jinru Han, Zhe Liu, Guofeng Zhang, Dalong Du, Hesheng Wang
-    conference_short: CVPR 2024
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
-    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_DifFlow3D_Toward_Robust_Uncertainty-Aware_Scene_Flow_Estimation_with_Iterative_Diffusion-Based_CVPR_2024_paper.pdf
-    code: https://github.com/IRMVLab/DifFlow3D
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j0TtQfGkk-MJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSs9FU:AFWwaeYAAAAAZm2q7FU15YFzVXt8G8heh_0c6Dw&scisig=AFWwaeYAAAAAZm2q7MfyVnbdo_cnZiKoZKunrKM&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    notes: Published
-    image: ./assets/img/paper/DifFlow3D.gif
 
   - title: "Sni-slam: Semantic neural implicit slam"
     authors: Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu, Liang Song, Marc Pollefeys, Hesheng Wang

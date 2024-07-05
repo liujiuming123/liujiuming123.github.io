@@ -30,7 +30,7 @@ main:
     notes: Published
     image: ./assets/img/paper/DifFlow3D.gif
 
-    - title: "Sni-slam: Semantic neural implicit slam"
+  - title: "Sni-slam: Semantic neural implicit slam"
     authors: Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu, Liang Song, Marc Pollefeys, Hesheng Wang
     conference_short: CVPR 2024
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024

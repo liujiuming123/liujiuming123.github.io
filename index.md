@@ -11,9 +11,9 @@ I am a second-year master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) i
 ## Research Interests
 
 - **Computer Vision:** 2D/3D/4D vision
-- **World Models:** diffusion-based 3D/4D plausible driving scene generation
-- **Point Cloud Learning:** point cloud processing & registration, scene flow estimation
-- **Deep Learning-based SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry
+- **World Model:** diffusion-based 3D/4D plausible driving scene generation
+- **Point Cloud Understanding:** point cloud processing & registration, scene flow estimation
+- **Learning-based SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry
 - **3D Rendering:** NeRF, 3D Gaussian Splatting
 
 ## News

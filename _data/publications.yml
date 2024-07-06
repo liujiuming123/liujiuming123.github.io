@@ -53,7 +53,7 @@ main:
   - title: "TransLO: A Window-Based Masked Point Transformer Framework for Large-Scale LiDAR Odometry"
     authors: Jiuming Liu, Guangming Wang, Chaokang Jiang, Zhe Liu, Hesheng Wang
     conference_short: AAAI 2023
-    conference: AAAI Conference on Artificial Intelligence 2023
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023
     pdf: https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6gZ8vloAAAAJ&citation_for_view=6gZ8vloAAAAJ:W7OEmFMy1HYC
     code: https://github.com/IRMVLab/TransLO
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JljxJ6XFUHIJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSuVxE:AFWwaeYAAAAAZm2oTxG6yWcOQ6xX3Q-4n6T8vCI&scisig=AFWwaeYAAAAAZm2oT47mxYGjz3FOA_c7pxunmZs&scisf=4&ct=citation&cd=-1&hl=zh-CN

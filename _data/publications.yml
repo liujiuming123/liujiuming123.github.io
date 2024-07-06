@@ -61,7 +61,7 @@ main:
     image: ./assets/img/paper/translo.gif
 
   - title: "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation"
-    authors: Chaokang Jiang, Guangming Wang, Jiuming Liu, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du
+    authors: Chaokang Jiang, Dalong Du, Jiuming Liu, Siting Zhu, Zhenqiang Liu, Zhuang Ma, Zhujin Liang, Jie Zhou
     conference_short: arXiv
     conference: arXiv
     pdf: https://arxiv.org/pdf/2405.14241

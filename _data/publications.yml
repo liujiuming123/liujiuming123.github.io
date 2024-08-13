@@ -2,11 +2,11 @@ main:
   - title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
     authors: Jiuming Liu, Dong Zhuo, Zhiheng Feng, Siting Zhu, Chensheng Peng, Zhe Liu, Hesheng Wang
     conference_short: ECCV 2024 
-    conference: European Conference on Computer Vision (ECCV) 2024 (**Oral**)
+    conference: European Conference on Computer Vision (ECCV) 2024 (Oral)
     pdf: https://arxiv.org/pdf/2403.18274
     code: https://github.com/IRMVLab/DVLO
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:v-3l9Cnmj6EJ:scholar.google.com/&output=citation&scisdr=ClGd-HygEIGetyfqcV0:AFWwaeYAAAAAZofsaV1TpSKJT9BPuaJOoWPHMRo&scisig=AFWwaeYAAAAAZofsacm-iF0jwxbZ4fr9I7O8gTs&scisf=4&ct=citation&cd=-1&hl=zh-CN 
-    notes: Published
+    notes: Oral
     image: ./assets/img/paper/DVLO.png
 
   - title: "3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling"

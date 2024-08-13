@@ -17,9 +17,8 @@ I am a second-year master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) i
 - **Neural Rendering:** NeRF, 3D Gaussian Splatting
 
 ## News
-
+- **[Aug. 2024]** Our paper “DVLO” is selected as the **Oral** presentation in [ECCV 2024](https://eccv2024.ecva.net/).
 - **[Jul. 2024]** Our paper “DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment” is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
-- **[May. 2024]** Our paper "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation" is available on [arXiv](https://arxiv.org/abs/2405.14241).
 - **[May. 2024]** Our paper "MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models" is available on [arXiv](https://arxiv.org/abs/2405.14338).
 - **[Feb. 2024]** Our paper "3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling" is accepted to [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_3DSFLabelling_Boosting_3D_Scene_Flow_Estimation_by_Pseudo_Auto-labelling_CVPR_2024_paper.html).
 - **[Feb. 2024]** Our paper "DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement" is accepted to [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_DifFlow3D_Toward_Robust_Uncertainty-Aware_Scene_Flow_Estimation_with_Iterative_Diffusion-Based_CVPR_2024_paper.html).

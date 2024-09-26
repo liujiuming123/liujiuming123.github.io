@@ -9,17 +9,6 @@ main:
     notes: Oral
     image: ./assets/img/paper/DVLO.png
 
-  - title: "3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling"
-    authors: Chaokang Jiang, Guangming Wang, Jiuming Liu, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du
-    conference_short: CVPR 2024
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
-    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_3DSFLabelling_Boosting_3D_Scene_Flow_Estimation_by_Pseudo_Auto-labelling_CVPR_2024_paper.pdf
-    code: https://github.com/jiangchaokang/3DSFLabelling
-    page: https://jiangchaokang.github.io/3DSFLabelling-Page/
-    bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.html
-    notes: Published
-    image: ./assets/img/paper/3DSFLabelling.gif
-    
   - title: "DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement"
     authors: Jiuming Liu, Guangming Wang, Weicai Ye, Chaokang Jiang, Jinru Han, Zhe Liu, Guofeng Zhang, Dalong Du, Hesheng Wang
     conference_short: CVPR 2024
@@ -30,18 +19,8 @@ main:
     notes: Published
     image: ./assets/img/paper/DifFlow3D.gif
 
-  - title: "Sni-slam: Semantic neural implicit slam"
-    authors: Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu, Liang Song, Marc Pollefeys, Hesheng Wang
-    conference_short: CVPR 2024
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
-    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.pdf
-    code: https://github.com/IRMVLab/SNI-SLAM
-    bibtex: https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.html
-    notes: Published
-    image: ./assets/img/paper/sni.gif
-
   - title: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration"
-    authors: Jiuming Liu, Guangming Wang, Chaokang Jiang, Zhe Liu, Hesheng Wang
+    authors: Jiuming Liu, Guangming Wang, Zhe Liu, Chaokang Jiang, Marc Pollefeys, Hesheng Wang
     conference_short: ICCV 2023
     conference: IEEE/CVF International Conference on Computer Vision (ICCV), 2023
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.pdf
@@ -59,16 +38,47 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JljxJ6XFUHIJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSuVxE:AFWwaeYAAAAAZm2oTxG6yWcOQ6xX3Q-4n6T8vCI&scisig=AFWwaeYAAAAAZm2oT47mxYGjz3FOA_c7pxunmZs&scisf=4&ct=citation&cd=-1&hl=zh-CN
     notes: Published
     image: ./assets/img/paper/translo.gif
-
+    
   - title: "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation"
     authors: Chaokang Jiang, Dalong Du, Jiuming Liu, Siting Zhu, Zhenqiang Liu, Zhuang Ma, Zhujin Liang, Jie Zhou
-    conference_short: arXiv
-    conference: arXiv
+    conference_short: NeurIPS 2024
+    conference: Advances in Neural Information Processing Systems, 2024
     pdf: https://arxiv.org/pdf/2405.14241
     code: https://github.com/jiangchaokang/NeuroGauss4D-PCI
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:KJ4AKAvj47gJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSoqWQ:AFWwaeYAAAAAZm2usWQvYkiwzuyUIOys1AM_hUg&scisig=AFWwaeYAAAAAZm2usbhU5e_z7gWyn5kOMQIg5Lc&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    notes: Under Review
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:KJ4AKAvj47gJ:scholar.google.com/&output=citation&scisdr=ClF921GSEIGet1S0SHw:AFWwaeYAAAAAZvSyUHzXVr9q3r6QqIxHp5W9RJQ&scisig=AFWwaeYAAAAAZvSyUF0O4wrCJItYWsEgdqqSMlo&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Published
     image: ./assets/img/paper/NeuroGauss4D.png
+
+  - title: "Spherical Frustum Sparse Convolution Network for LiDAR Point Cloud Semantic Segmentation"
+    authors: Yu Zheng, Guangming Wang, Jiuming Liu, Marc Pollefeys, Hesheng Wang
+    conference_short: NeurIPS 2024
+    conference: Advances in Neural Information Processing Systems, 2024
+    pdf: https://arxiv.org/pdf/2311.17491
+    code: None
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qTmNrabh3KwJ:scholar.google.com/&output=citation&scisdr=ClF921GSEIGet1S1f9c:AFWwaeYAAAAAZvSzZ9faGzY1Yb2AhCFXx7C0SBo&scisig=AFWwaeYAAAAAZvSzZ_LQZk2RxLOiy7JLx8mw1c8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Published
+    image: ./assets/img/paper/NeuroGauss4D.png
+    
+  - title: "3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling"
+    authors: Chaokang Jiang, Guangming Wang, Jiuming Liu, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du
+    conference_short: CVPR 2024
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_3DSFLabelling_Boosting_3D_Scene_Flow_Estimation_by_Pseudo_Auto-labelling_CVPR_2024_paper.pdf
+    code: https://github.com/jiangchaokang/3DSFLabelling
+    page: https://jiangchaokang.github.io/3DSFLabelling-Page/
+    bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.html
+    notes: Published
+    image: ./assets/img/paper/3DSFLabelling.gif
+    
+  - title: "Sni-slam: Semantic neural implicit slam"
+    authors: Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu, Liang Song, Marc Pollefeys, Hesheng Wang
+    conference_short: CVPR 2024
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.pdf
+    code: https://github.com/IRMVLab/SNI-SLAM
+    bibtex: https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.html
+    notes: Published
+    image: ./assets/img/paper/sni.gif
 
   - title: "MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models"
     authors: Jiuming Liu, Jinru Han, Lihao Liu, Angelica I Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang

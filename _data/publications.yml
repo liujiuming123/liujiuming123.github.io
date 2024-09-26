@@ -57,7 +57,7 @@ main:
     code: None
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qTmNrabh3KwJ:scholar.google.com/&output=citation&scisdr=ClF921GSEIGet1S1f9c:AFWwaeYAAAAAZvSzZ9faGzY1Yb2AhCFXx7C0SBo&scisig=AFWwaeYAAAAAZvSzZ_LQZk2RxLOiy7JLx8mw1c8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     notes: Published
-    image: ./assets/img/paper/NeuroGauss4D.png
+    image: ./assets/img/paper/SFSCNet.png
     
   - title: "3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling"
     authors: Chaokang Jiang, Guangming Wang, Jiuming Liu, Hesheng Wang, Zhuang Ma, Zhenqiang Liu, Zhujin Liang, Yi Shan, Dalong Du

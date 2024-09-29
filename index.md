@@ -17,7 +17,7 @@ I am a last-year master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) in 
 - **Neural Rendering:** NeRF, 3D Gaussian Splatting
 
 ## News
-- **[Sep. 2024]** **Two papers** about semantic segmentation and Gaussian Splatting-based 3D prediction are accepted by [NeurIPS 2024](https://neurips.cc/). 
+- **[Sep. 2024]** **Two papers** about semantic segmentation and Gaussian Splatting-based point cloud interpolation are accepted by [NeurIPS 2024](https://neurips.cc/). 
 - **[Aug. 2024]** Our paper “DVLO” is selected as the **Oral** presentation in [ECCV 2024](https://eccv2024.ecva.net/).
 - **[Jul. 2024]** Our paper “DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment” is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
 - **[May. 2024]** Our paper "MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models" is available on [arXiv](https://arxiv.org/abs/2405.14338).

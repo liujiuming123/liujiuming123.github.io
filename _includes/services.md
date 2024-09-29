@@ -12,5 +12,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://link.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://mc.manuscriptcentral.com/broker/TQD6riYDycgbDZtBrLdh1pe42PQ1K3DLKPED4QPJmgk?app=s1m&referrer=s1m_stack1%3Fjournal%3Dtcsvt"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856"><autocolor>IEEE Transactions on Automation Science and Engineering (T-ASE)</autocolor></a></li>
 </ul>

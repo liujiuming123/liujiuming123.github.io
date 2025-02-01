@@ -44,7 +44,7 @@ main:
     conference_short: ECCV 2024 
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
     notes: Published
-    image: ./assets/img/paper/DVLO.png
+    image: ./assets/img/paper/ICRA.mp4
     
   - title: "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation"
     authors: Chaokang Jiang, Dalong Du, Jiuming Liu, Siting Zhu, Zhenqiang Liu, Zhuang Ma, Zhujin Liang, Jie Zhou

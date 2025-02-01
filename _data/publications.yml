@@ -38,6 +38,13 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JljxJ6XFUHIJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSuVxE:AFWwaeYAAAAAZm2oTxG6yWcOQ6xX3Q-4n6T8vCI&scisig=AFWwaeYAAAAAZm2oT47mxYGjz3FOA_c7pxunmZs&scisf=4&ct=citation&cd=-1&hl=zh-CN
     notes: Published
     image: ./assets/img/paper/translo.gif
+
+  - title: "DVLO4D: Deep Visual-Lidar Odometry with Sparse Spatial-temporal Fusion"
+    authors: Mengmeng Liu, Michael Ying Yang, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Oude Elberink Sander, George Vosselman, Hao Cheng
+    conference_short: ECCV 2024 
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
+    notes: Published
+    image: ./assets/img/paper/DVLO.png
     
   - title: "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation"
     authors: Chaokang Jiang, Dalong Du, Jiuming Liu, Siting Zhu, Zhenqiang Liu, Zhuang Ma, Zhujin Liang, Jie Zhou

@@ -41,7 +41,7 @@ main:
 
   - title: "DVLO4D: Deep Visual-Lidar Odometry with Sparse Spatial-temporal Fusion"
     authors: Mengmeng Liu, Michael Ying Yang, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Oude Elberink Sander, George Vosselman, Hao Cheng
-    conference_short: ECCV 2024 
+    conference_short: ICRA 2025 
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
     notes: Published
     image: ./assets/img/paper/ICRA.mp4

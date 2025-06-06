@@ -6,7 +6,7 @@ layout: homepage
 
 I am a final-year master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I am fortunate to be supervised by Professor [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and to collaborate with many wonderful co-authors: [Dr.Guangming Wang](https://guangmingw.github.io/), [Dr.Lihao Liu](https://lihaoliu-cambridge.github.io/), and [Prof.Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/) from [University of Cambridge](https://www.cam.ac.uk/); [Chaokang Jiang](https://jiangchaokang.github.io/) from PhiGent Robotics, etc. My research interests include a wide range of computer vision fields, especially how to perceive, comprehend, localize, and generate realistic 2D/3D/4D worlds. From Jun. to Aug. in 2023, I visited the T Stone Institute at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Prof. [Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). From Aug. to Sep. 2024, I also visited the DAMTP, [University of Cambridge](https://www.cam.ac.uk/), advised by Prof. [Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/). During my master period, I have published various top-tier conference papers in computer vision, machine learning, and robotics domains, including CVPR, ICCV, ECCV, NeurIPS, AAAI, and ICRA. I also actively served as the reviewer of conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, and ICML, and journals like IJCV, TCSVT, TASE, IEEE RAL, etc. 
 
-**Feel free to cooperate by contacting me at email: liujiuming123@gmail.com**.
+**Feel free to cooperate in research, contacting me at email: liujiuming123@gmail.com**.
 
 ## Research Interests
 

@@ -1,6 +1,6 @@
 main:
 
-  - title: "MAMBA4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models"
+  - title: "Mamba4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models"
     authors: Jiuming Liu, Jinru Han, Lihao Liu, Angelica I Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang
     conference_short: CVPR 2025
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025

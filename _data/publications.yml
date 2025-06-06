@@ -1,5 +1,15 @@
 main:
-  - title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
+  - title: "MAMBA4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models"
+    authors: Jiuming Liu, Jinru Han, Lihao Liu, Angelica I Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang
+    conference_short: CVPR 2025
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+    pdf: https://arxiv.org/pdf/2405.14338
+    code: https://github.com/IRMVLab/MAMBA4D
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:WrzUY_XeCMcJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSr_5A:AFWwaeYAAAAAZm2t55DjL7oaLzmVOZMbNS09xzc&scisig=AFWwaeYAAAAAZm2t5_EUqKyt4C1uUPVDFjvY3Rw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Under Review
+    image: ./assets/img/paper/MAMBA4D.gif
+
+- title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
     authors: Jiuming Liu, Dong Zhuo, Zhiheng Feng, Siting Zhu, Chensheng Peng, Zhe Liu, Hesheng Wang
     conference_short: ECCV 2024 
     conference: European Conference on Computer Vision (ECCV) 2024 (Oral)
@@ -86,13 +96,3 @@ main:
     bibtex: https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.html
     notes: Published
     image: ./assets/img/paper/sni.gif
-
-  - title: "MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models"
-    authors: Jiuming Liu, Jinru Han, Lihao Liu, Angelica I Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang
-    conference_short: arXiv
-    conference: arXiv
-    pdf: https://arxiv.org/pdf/2405.14338
-    code: https://github.com/IRMVLab/MAMBA4D
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:WrzUY_XeCMcJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSr_5A:AFWwaeYAAAAAZm2t55DjL7oaLzmVOZMbNS09xzc&scisig=AFWwaeYAAAAAZm2t5_EUqKyt4C1uUPVDFjvY3Rw&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    notes: Under Review
-    image: ./assets/img/paper/MAMBA4D.gif

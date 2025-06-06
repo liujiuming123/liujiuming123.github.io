@@ -17,7 +17,7 @@ I am a final-year master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) fr
 - **Neural Rendering:** NeRF, 3D Gaussian Splatting
 
 ## News
-- **[Feb. 2025]** Our paper “Mamba4D” is accepted by [CVPR2025][https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.pdf].
+- **[Feb. 2025]** Our paper “Mamba4D” is accepted by [CVPR2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.pdf).
 - **[Jan. 2025]** Our paper “DVLO4D” is accepted by [ICRA2025](https://2025.ieee-icra.org/).
 - **[Sep. 2024]** **Two papers** about semantic segmentation and Gaussian Splatting-based point cloud interpolation are accepted by [NeurIPS 2024](https://neurips.cc/). 
 - **[Aug. 2024]** Our paper “DVLO” is selected as the **Oral** presentation in [ECCV 2024](https://eccv2024.ecva.net/).

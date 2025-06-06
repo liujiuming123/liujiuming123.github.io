@@ -1,6 +1,16 @@
 main:
 
-- title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
+  - title: "MAMBA4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models"
+    authors: Jiuming Liu, Jinru Han, Lihao Liu, Angelica I Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang
+    conference_short: CVPR 2025
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.pdf
+    code: https://github.com/IRMVLab/MAMBA4D
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:I_Bes--33d4J:scholar.google.com/&output=citation&scisdr=CgJEtECvEPaEsPlFKsY:AAZF9b8AAAAAaEJDMsb9ZLGEGFKQSPlPjrvVzGc&scisig=AAZF9b8AAAAAaEJDMkx9RNLeKCYuqlDqbEPxzb0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Published
+    image: ./assets/img/paper/MAMBA4D.gif
+    
+  - title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
     authors: Jiuming Liu, Dong Zhuo, Zhiheng Feng, Siting Zhu, Chensheng Peng, Zhe Liu, Hesheng Wang
     conference_short: ECCV 2024 Oral
     conference: European Conference on Computer Vision (ECCV) 2024 (Oral)

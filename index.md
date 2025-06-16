@@ -17,6 +17,7 @@ I am a final-year master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) fr
 - **Neural Rendering:** NeRF, 3D Gaussian Splatting
 
 ## News
+- **[Jun. 2025]** **Three papers** about LiDAR generation, Gaussian splatting, and SLAM are accepted by [IROS2025](https://www.iros25.org/).
 - **[Feb. 2025]** Our paper “Mamba4D” is accepted by [CVPR2025](https://cvpr.thecvf.com/Conferences/2025).
 - **[Jan. 2025]** Our paper “DVLO4D” is accepted by [ICRA2025](https://2025.ieee-icra.org/).
 - **[Sep. 2024]** **Two papers** about semantic segmentation and Gaussian Splatting-based point cloud interpolation are accepted by [NeurIPS 2024](https://neurips.cc/). 

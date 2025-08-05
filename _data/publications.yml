@@ -18,7 +18,7 @@ main:
     code: https://github.com/IRMVLab/TopoLiDM
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gMKjw-Ggct0J:scholar.google.com/&output=citation&scisdr=CgIQGHFpEPaEsCr4Arc:AAZF9b8AAAAAaJH-GrdutyTbCNpvyjzhgW57Pv4&scisig=AAZF9b8AAAAAaJH-Go-YcWWBkhpuLD_ELGB_l44&scisf=4&ct=citation&cd=-1&hl=zh-CN
     notes: Published
-    image: ./assets/img/paper/TOPO.jpg
+    image: ./assets/img/paper/TOPO.png
     
   - title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
     authors: Jiuming Liu, Dong Zhuo, Zhiheng Feng, Siting Zhu, Chensheng Peng, Zhe Liu, Hesheng Wang

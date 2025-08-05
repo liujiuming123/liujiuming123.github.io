@@ -10,6 +10,16 @@ main:
     notes: Published
     image: ./assets/img/paper/MAMBA4D.gif
     
+  - title: "TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation"
+    authors: Jiuming Liu, Zheng Huang, Mengmeng Liu, Tianchen Deng, Francesco Nex, Hao Cheng, Hesheng Wang
+    conference_short: IROS 2025
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
+    pdf: https://arxiv.org/pdf/2507.22454
+    code: https://github.com/IRMVLab/TopoLiDM
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gMKjw-Ggct0J:scholar.google.com/&output=citation&scisdr=CgIQGHFpEPaEsCr4Arc:AAZF9b8AAAAAaJH-GrdutyTbCNpvyjzhgW57Pv4&scisig=AAZF9b8AAAAAaJH-Go-YcWWBkhpuLD_ELGB_l44&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Published
+    image: ./assets/img/paper/TOPO.png
+    
   - title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
     authors: Jiuming Liu, Dong Zhuo, Zhiheng Feng, Siting Zhu, Chensheng Peng, Zhe Liu, Hesheng Wang
     conference_short: ECCV 2024 Oral

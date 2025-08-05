@@ -8,6 +8,8 @@
   <li><a href="https://nips.cc/Conferences/2024"><autocolor>The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024, 2025</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>The International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
   <li><a href="https://icml.cc/"><autocolor>The International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
+  <li><a href="https://www.iros25.org/"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI) 2026</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>

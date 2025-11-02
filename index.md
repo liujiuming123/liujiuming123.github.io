@@ -11,7 +11,7 @@ I am a first-year PhD student in the [Machine Intelligence Lab](https://www.eng.
 ## Research Interests
 
 - **Computer Vision:** 2D/3D/4D vision
-- **Human-Computer Interaction:** How to provide more immersive experiences in VR, robotics, etc.
+- **Human-Computer Interaction:** More immersive experiences in VR, robotics, etc.
 - **World Model:** diffusion-based 3D/4D plausible driving scene generation
 - **Point Cloud Understanding:** point cloud processing & registration, scene flow estimation
 - **Learning-based SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry

@@ -1,5 +1,4 @@
 main:
-
   - title: "DifFlow3D: Hierarchical Diffusion Models for Uncertainty-Aware 3D Scene Flow Estimation"
     authors: Jiuming Liu,Weicai Ye, Guangming Wang, Chaokang Jiang, Lei Pan, Jinru Han, Zhe Liu, Guofeng Zhang, HeshengWang
     conference_short: T-PAMI 2025

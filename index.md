@@ -18,7 +18,7 @@ I am a first-year PhD student in the Machine Intelligence Lab from Department of
 - **Neural Rendering:** NeRF, 3D Gaussian Splatting
 
 ## News
-- **[Oct. 2025]** The journal version of our DifFlow3D about scene flow and 4D scene reconstruction is accepted by T-PAMI.
+- **[Oct. 2025]** The journal version of our DifFlow3D about scene flow and 4D scene reconstruction is accepted by [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - **[Jun. 2025]** **Three papers** about LiDAR generation, Gaussian splatting, and SLAM are accepted by [IROS2025](https://www.iros25.org/).
 - **[Feb. 2025]** Our paper “Mamba4D” is accepted by [CVPR2025](https://cvpr.thecvf.com/Conferences/2025).
 - **[Jan. 2025]** Our paper “DVLO4D” is accepted by [ICRA2025](https://2025.ieee-icra.org/).

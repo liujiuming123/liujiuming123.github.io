@@ -4,19 +4,21 @@ layout: homepage
 
 ## Jiuming Liu (刘久铭)
 
-I am a final-year master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I am fortunate to be supervised by Professor [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and to collaborate with many wonderful co-authors: [Dr.Guangming Wang](https://guangmingw.github.io/), [Dr.Lihao Liu](https://lihaoliu-cambridge.github.io/), and [Prof.Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/) from [University of Cambridge](https://www.cam.ac.uk/); [Chaokang Jiang](https://jiangchaokang.github.io/) from BOSCH company, etc. My research interests include a wide range of computer vision fields, especially how to perceive, comprehend, localize, and generate realistic 2D/3D/4D worlds. From Jun. to Aug. in 2023, I visited the T Stone Institute at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Prof. [Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). From Aug. to Sep. 2024, I also visited the DAMTP, [University of Cambridge](https://www.cam.ac.uk/), advised by Prof. [Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/). During my master period, I have published various top-tier conference papers in computer vision, machine learning, and robotics domains, including CVPR, ICCV, ECCV, NeurIPS, AAAI, ICRA, and IROS. I also actively served as the reviewer of conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, and AAAI, and journals like IJCV, TCSVT, TASE, IEEE RAL, etc. 
+I am a first-year PhD student in the Machine Intelligence Lab from Department of Engineering, University of Cambridge, supervised by Professor [Per Ola Kristensson](https://pokristensson.com/), and advised by Dr. [Elliot (Shangzhe) Wu](https://elliottwu.com/). Previously, I was a master student at the [IRMV Lab](https://irmv.sjtu.edu.cn/) from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by Professor [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng). I collaborated with many wonderful co-authors: [Dr.Guangming Wang](https://guangmingw.github.io/), [Dr.Lihao Liu](https://lihaoliu-cambridge.github.io/), and [Prof.Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/) from University of Cambridge; [Chaokang Jiang](https://jiangchaokang.github.io/) from BOSCH company, etc. My research interests include a wide range of computer vision and interaction fields, especially how to perceive, comprehend, localize, and generate realistic 2D/3D/4D worlds. From Jun. to Aug. in 2023, I visited the T Stone Institute at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Prof. [Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). From Aug. to Sep. 2024, I also visited the DAMTP, [University of Cambridge](https://www.cam.ac.uk/), advised by Prof. [Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/). I have published various top-tier conference papers in computer vision, machine learning, and robotics domains, including T-PAMI, CVPR, ICCV, ECCV, NeurIPS, AAAI, T-ITS, ICRA, and IROS. I also actively served as the reviewer of conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, and AAAI, and journals like IJCV, TCSVT, TASE, IEEE RAL, etc. 
 
 **Feel free to cooperate by contacting me at email: liujiuming123@gmail.com**.
 
 ## Research Interests
 
 - **Computer Vision:** 2D/3D/4D vision
+- **Human-Computer Interaction:** How to provide more immersive experiences in VR, robotics, etc.
 - **World Model:** diffusion-based 3D/4D plausible driving scene generation
 - **Point Cloud Understanding:** point cloud processing & registration, scene flow estimation
 - **Learning-based SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry
 - **Neural Rendering:** NeRF, 3D Gaussian Splatting
 
 ## News
+- **[Oct. 2025]** The journal version of our DifFlow3D about scene flow and 4D scene reconstruction is accepted by T-PAMI.
 - **[Jun. 2025]** **Three papers** about LiDAR generation, Gaussian splatting, and SLAM are accepted by [IROS2025](https://www.iros25.org/).
 - **[Feb. 2025]** Our paper “Mamba4D” is accepted by [CVPR2025](https://cvpr.thecvf.com/Conferences/2025).
 - **[Jan. 2025]** Our paper “DVLO4D” is accepted by [ICRA2025](https://2025.ieee-icra.org/).

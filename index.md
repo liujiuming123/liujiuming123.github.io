@@ -11,13 +11,15 @@ I am a PhD student in the [Machine Intelligence Lab](https://www.eng.cam.ac.uk/r
 ## Research Interests
 
 - **Computer Vision:** 2D/3D/4D vision
-- **Human-Computer Interaction:** More immersive experiences in VR, robotics, etc.
+- **Human-Scene Interaction:** immersive experiences in VR, robotics.
 - **World Model:** diffusion-based 3D/4D plausible driving scene generation
 - **Point Cloud Understanding:** point cloud processing & registration, scene flow estimation
 - **Learning-based SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry
 - **Neural Rendering:** NeRF, 3D Gaussian Splatting
+- **Motion Learning :** Optical flow estimation, scene flow estimation, 4D point video
 
 ## News
+- **[Nov. 2025]** One paper “4DSTR” about 4D generation is accepted by [AAAI2026](https://aaai.org/conference/aaai/aaai-26/).
 - **[Oct. 2025]** The journal version of our DifFlow3D about scene flow and 4D scene reconstruction is accepted by [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - **[Jun. 2025]** **Three papers** about LiDAR generation, Gaussian splatting, and SLAM are accepted by [IROS2025](https://www.iros25.org/).
 - **[Feb. 2025]** Our paper “Mamba4D” is accepted by [CVPR2025](https://cvpr.thecvf.com/Conferences/2025).

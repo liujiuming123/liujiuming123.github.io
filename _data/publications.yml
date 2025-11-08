@@ -1,6 +1,16 @@
-main:
+main:  
+  - title: "4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation"
+    authors: Mengmeng Liu, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng 
+    conference_short: AAAI 2026
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.pdf
+    code: https://github.com/IRMVLab/DifFlow3D
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:I_Bes--33d4J:scholar.google.com/&output=citation&scisdr=CgJEtECvEPaEsPlFKsY:AAZF9b8AAAAAaEJDMsb9ZLGEGFKQSPlPjrvVzGc&scisig=AAZF9b8AAAAAaEJDMkx9RNLeKCYuqlDqbEPxzb0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Published
+    image: ./assets/img/paper/4dstr.gif
+    
   - title: "DifFlow3D: Hierarchical Diffusion Models for Uncertainty-Aware 3D Scene Flow Estimation"
-    authors: Jiuming Liu,Weicai Ye, Guangming Wang, Chaokang Jiang, Lei Pan, Jinru Han, Zhe Liu, Guofeng Zhang, HeshengWang
+    authors: Jiuming Liu, Weicai Ye, Guangming Wang, Chaokang Jiang, Lei Pan, Jinru Han, Zhe Liu, Guofeng Zhang, HeshengWang
     conference_short: T-PAMI 2025
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
     pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.pdf
@@ -28,6 +38,13 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gMKjw-Ggct0J:scholar.google.com/&output=citation&scisdr=CgIQGHFpEPaEsCr4Arc:AAZF9b8AAAAAaJH-GrdutyTbCNpvyjzhgW57Pv4&scisig=AAZF9b8AAAAAaJH-Go-YcWWBkhpuLD_ELGB_l44&scisf=4&ct=citation&cd=-1&hl=zh-CN
     notes: Published
     image: ./assets/img/paper/TOPO.png
+
+  - title: "DVLO4D: Deep Visual-Lidar Odometry with Sparse Spatial-temporal Fusion"
+    authors: Mengmeng Liu, Michael Ying Yang, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Oude Elberink Sander, George Vosselman, Hao Cheng
+    conference_short: ICRA 2025 
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
+    notes: Published
+    image: ./assets/img/paper/ICRA25.gif
     
   - title: "DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment"
     authors: Jiuming Liu, Dong Zhuo, Zhiheng Feng, Siting Zhu, Chensheng Peng, Zhe Liu, Hesheng Wang
@@ -48,33 +65,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j0TtQfGkk-MJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSs9FU:AFWwaeYAAAAAZm2q7FU15YFzVXt8G8heh_0c6Dw&scisig=AFWwaeYAAAAAZm2q7MfyVnbdo_cnZiKoZKunrKM&scisf=4&ct=citation&cd=-1&hl=zh-CN
     notes: Published
     image: ./assets/img/paper/DifFlow3D.gif
-
-  - title: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration"
-    authors: Jiuming Liu, Guangming Wang, Zhe Liu, Chaokang Jiang, Marc Pollefeys, Hesheng Wang
-    conference_short: ICCV 2023
-    conference: IEEE/CVF International Conference on Computer Vision (ICCV), 2023
-    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.pdf
-    code: https://github.com/IRMVLab/RegFormer
-    bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.html
-    notes: Published
-    image: ./assets/img/paper/RegFormer.gif
-
-  - title: "TransLO: A Window-Based Masked Point Transformer Framework for Large-Scale LiDAR Odometry"
-    authors: Jiuming Liu, Guangming Wang, Chaokang Jiang, Zhe Liu, Hesheng Wang
-    conference_short: AAAI 2023
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023
-    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6gZ8vloAAAAJ&citation_for_view=6gZ8vloAAAAJ:W7OEmFMy1HYC
-    code: https://github.com/IRMVLab/TransLO
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JljxJ6XFUHIJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSuVxE:AFWwaeYAAAAAZm2oTxG6yWcOQ6xX3Q-4n6T8vCI&scisig=AFWwaeYAAAAAZm2oT47mxYGjz3FOA_c7pxunmZs&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    notes: Published
-    image: ./assets/img/paper/translo.gif
-
-  - title: "DVLO4D: Deep Visual-Lidar Odometry with Sparse Spatial-temporal Fusion"
-    authors: Mengmeng Liu, Michael Ying Yang, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Oude Elberink Sander, George Vosselman, Hao Cheng
-    conference_short: ICRA 2025 
-    conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
-    notes: Published
-    image: ./assets/img/paper/ICRA25.gif
     
   - title: "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation"
     authors: Chaokang Jiang, Dalong Du, Jiuming Liu, Siting Zhu, Zhenqiang Liu, Zhuang Ma, Zhujin Liang, Jie Zhou
@@ -116,3 +106,25 @@ main:
     bibtex: https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.html
     notes: Published
     image: ./assets/img/paper/sni.gif
+
+  - title: "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration"
+    authors: Jiuming Liu, Guangming Wang, Zhe Liu, Chaokang Jiang, Marc Pollefeys, Hesheng Wang
+    conference_short: ICCV 2023
+    conference: IEEE/CVF International Conference on Computer Vision (ICCV), 2023
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.pdf
+    code: https://github.com/IRMVLab/RegFormer
+    bibtex: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_RegFormer_An_Efficient_Projection-Aware_Transformer_Network_for_Large-Scale_Point_Cloud_ICCV_2023_paper.html
+    notes: Published
+    image: ./assets/img/paper/RegFormer.gif
+
+  - title: "TransLO: A Window-Based Masked Point Transformer Framework for Large-Scale LiDAR Odometry"
+    authors: Jiuming Liu, Guangming Wang, Chaokang Jiang, Zhe Liu, Hesheng Wang
+    conference_short: AAAI 2023
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023
+    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6gZ8vloAAAAJ&citation_for_view=6gZ8vloAAAAJ:W7OEmFMy1HYC
+    code: https://github.com/IRMVLab/TransLO
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JljxJ6XFUHIJ:scholar.google.com/&output=citation&scisdr=ClGaayC5ELzsosSuVxE:AFWwaeYAAAAAZm2oTxG6yWcOQ6xX3Q-4n6T8vCI&scisig=AFWwaeYAAAAAZm2oT47mxYGjz3FOA_c7pxunmZs&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: Published
+    image: ./assets/img/paper/translo.gif
+
+

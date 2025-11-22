@@ -3,20 +3,20 @@ main:
     authors: Mengmeng Liu, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng 
     conference_short: AAAI 2026
     conference: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)
-    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.pdf
+    pdf: https://arxiv.org/pdf/2511.07241
     code: https://github.com/IRMVLab/DifFlow3D
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:I_Bes--33d4J:scholar.google.com/&output=citation&scisdr=CgJEtECvEPaEsPlFKsY:AAZF9b8AAAAAaEJDMsb9ZLGEGFKQSPlPjrvVzGc&scisig=AAZF9b8AAAAAaEJDMkx9RNLeKCYuqlDqbEPxzb0&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    notes: Published
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GbMcMheAaSIJ:scholar.google.com/&output=citation&scisdr=ChWuKY_FEKX6munY77A:ABGrvjIAAAAAaSHe97DrT-5UXNDlgxskZFVGijI&scisig=ABGrvjIAAAAAaSHe9x9j7l0Q0KD2S435KsjgHuo&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
     image: ./assets/img/paper/4dstr.gif
     
   - title: "DifFlow3D: Hierarchical Diffusion Models for Uncertainty-Aware 3D Scene Flow Estimation"
     authors: Jiuming Liu, Weicai Ye, Guangming Wang, Chaokang Jiang, Lei Pan, Jinru Han, Zhe Liu, Guofeng Zhang, HeshengWang
     conference_short: T-PAMI 2025
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
-    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.pdf
-    code: https://github.com/IRMVLab/DifFlow3D
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:I_Bes--33d4J:scholar.google.com/&output=citation&scisdr=CgJEtECvEPaEsPlFKsY:AAZF9b8AAAAAaEJDMsb9ZLGEGFKQSPlPjrvVzGc&scisig=AAZF9b8AAAAAaEJDMkx9RNLeKCYuqlDqbEPxzb0&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    notes: Published
+    pdf: https://ieeexplore.ieee.org/document/11230643
+    code: https://github.com/IRMVLab/DifFlow3D-Extension
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yQxozipM7PsJ:scholar.google.com/&output=citation&scisdr=ChWuKY_FEKX6munZXhA:ABGrvjIAAAAAaSHfRhBXAUVgwooR5tMhLc3yFQQ&scisig=ABGrvjIAAAAAaSHfRoh2HOdNcdDj16725eNLNaY&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
     image: ./assets/img/paper/4dvideo1.gif
 
   - title: "Mamba4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models"

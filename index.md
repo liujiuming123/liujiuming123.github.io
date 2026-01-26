@@ -19,6 +19,7 @@ I am a PhD student in the [Machine Intelligence Lab](https://www.eng.cam.ac.uk/r
 - **Motion Learning :** Optical flow estimation, scene flow estimation, 4D point video
 
 ## News
+- **[Jan. 2026]** One paper “ARFlow” about autoregressive optical flow estimation is accepted by [ICLR2026](https://iclr.cc/).
 - **[Nov. 2025]** One paper “4DSTR” about 4D generation is accepted by [AAAI2026](https://aaai.org/conference/aaai/aaai-26/).
 - **[Oct. 2025]** The journal version of our DifFlow3D about scene flow and 4D scene reconstruction is accepted by [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - **[Jun. 2025]** **Three papers** about LiDAR generation, Gaussian splatting, and SLAM are accepted by [IROS2025](https://www.iros25.org/).

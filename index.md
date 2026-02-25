@@ -21,6 +21,7 @@ My research interests include a wide range of computer vision fields, especially
 - **Motion Learning :** optical flow estimation, scene flow estimation, 4D point video
 
 ## News
+- **[Feb. 2026]** Two papers about streamlined VLO and RL-based 360 saliency prediction are accepted by [CVPR2026](https://cvpr.thecvf.com/Conferences/2026).
 - **[Jan. 2026]** One paper “ARFlow” about autoregressive optical flow estimation is accepted by [ICLR2026](https://iclr.cc/).
 - **[Nov. 2025]** One paper “4DSTR” about 4D generation is accepted by [AAAI2026](https://aaai.org/conference/aaai/aaai-26/).
 - **[Oct. 2025]** The journal version of our DifFlow3D about scene flow and 4D scene reconstruction is accepted by [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).

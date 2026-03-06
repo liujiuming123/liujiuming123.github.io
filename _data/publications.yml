@@ -1,4 +1,14 @@
 main:  
+  - title: "ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting"
+    authors: Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang 
+    conference_short: ICLR 2026
+    conference: The Fourteenth International Conference on Learning Representations
+    pdf: https://openreview.net/forum?id=iJ7cyttpVj
+    code: https://github.com/liujiuming123/ICLR2026-ARFlow
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hpchPkZRb6wJ:scholar.google.com/&output=citation&scisdr=Cl97RdZqEPynzWaaeto:AFtJQiwAAAAAaaqcYtrT3IohkF5uIwtaxM2a0as&scisig=AFtJQiwAAAAAaaqcYokUlATt3tgp42-PtpbsIvk&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
+    image: ./assets/img/paper/4dstr.gif
+    
   - title: "4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation"
     authors: Mengmeng Liu, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng 
     conference_short: AAAI 2026
@@ -6,7 +16,7 @@ main:
     pdf: https://arxiv.org/pdf/2511.07241
     code: https://github.com/IRMVLab/DifFlow3D
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GbMcMheAaSIJ:scholar.google.com/&output=citation&scisdr=ChWuKY_FEKX6munY77A:ABGrvjIAAAAAaSHe97DrT-5UXNDlgxskZFVGijI&scisig=ABGrvjIAAAAAaSHe9x9j7l0Q0KD2S435KsjgHuo&scisf=4&ct=citation&cd=-1&hl=en
-    notes: Accepted
+    notes: Published
     image: ./assets/img/paper/4dstr.gif
     
   - title: "DifFlow3D: Hierarchical Diffusion Models for Uncertainty-Aware 3D Scene Flow Estimation"
@@ -16,7 +26,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/11230643
     code: https://github.com/IRMVLab/DifFlow3D-Extension
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yQxozipM7PsJ:scholar.google.com/&output=citation&scisdr=ChWuKY_FEKX6munZXhA:ABGrvjIAAAAAaSHfRhBXAUVgwooR5tMhLc3yFQQ&scisig=ABGrvjIAAAAAaSHfRoh2HOdNcdDj16725eNLNaY&scisf=4&ct=citation&cd=-1&hl=en
-    notes: Accepted
+    notes: Published
     image: ./assets/img/paper/4dvideo1.gif
 
   - title: "Mamba4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models"

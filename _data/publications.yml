@@ -7,7 +7,7 @@ main:
     code: https://github.com/liujiuming123/ICLR2026-ARFlow
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hpchPkZRb6wJ:scholar.google.com/&output=citation&scisdr=Cl97RdZqEPynzWaaeto:AFtJQiwAAAAAaaqcYtrT3IohkF5uIwtaxM2a0as&scisig=AFtJQiwAAAAAaaqcYokUlATt3tgp42-PtpbsIvk&scisf=4&ct=citation&cd=-1&hl=en
     notes: Accepted
-    image: ./assets/img/paper/4dstr.gif
+    image: ./assets/img/paper/optical.gif
     
   - title: "4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation"
     authors: Mengmeng Liu, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng 

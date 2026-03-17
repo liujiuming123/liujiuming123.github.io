@@ -1,7 +1,7 @@
 main:  
 
   - title: "StreamVLO: Streaming Visual-LiDAR Odometry with Cumulative Drift Compensation"
-    authors: Mengmeng Liu, Jiuming Liu, Michael Ying Yang, Chaokanng Jiang, Jiangtao Li, Yunpeng Zhang, Hesheng Wang, Francesco Nex, Hao Cheng
+    authors: Mengmeng Liu, Jiuming Liu, Michael Ying Yang, Chaokang Jiang, Jiangtao Li, Yunpeng Zhang, Hesheng Wang, Francesco Nex, Hao Cheng
     conference_short: CVPR 2026
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
     pdf: https://openreview.net/forum?id=XwFXJ38jET

@@ -11,7 +11,7 @@
   <li><a href="https://www.iros25.org/"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025, 2026</autocolor></a></li>
   <li><a href="https://2026.ieee-icra.org/"><autocolor>IEEE International Conference on Robotics and Automation (ICRA) 2026</autocolor></a></li>
   <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI) 2026</autocolor></a></li>
-  <li><a href="https://bmvc2026.bmva.org/"><autocolor>The 37th British Machine Vision Conference 2026</autocolor></a></li>
+  <li><a href="https://bmvc2026.bmva.org/"><autocolor>The 37th British Machine Vision Conference (BMVC) 2026</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>

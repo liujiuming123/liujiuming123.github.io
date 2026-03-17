@@ -1,4 +1,15 @@
 main:  
+
+  - title: "StreamVLO: Streaming Visual-LiDAR Odometry with Cumulative Drift Compensation"
+    authors: Mengmeng Liu, Jiuming Liu, Michael Ying Yang, Chaokanng Jiang, Jiangtao Li, Yunpeng Zhang, Hesheng Wang, Francesco Nex, Hao Cheng
+    conference_short: CVPR 2026
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+    pdf: https://openreview.net/forum?id=XwFXJ38jET
+    code: https://github.com/wangyuji1/RLScanIQA
+    bibtex: https://openreview.net/forum?id=XwFXJ38jET
+    notes: Accepted
+    image: ./assets/img/paper/STVLO
+    
   - title: "RL‑ScanIQA: Reinforcement-Learned Scanpaths for Blind 360° Image Quality Assessment"
     authors: Yujia Wang, Yuyan Li, Jiuming Liu, Fang-Lue Zhang, Xinhu Zheng, Neil.A Dodgson 
     conference_short: CVPR 2026

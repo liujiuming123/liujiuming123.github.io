@@ -8,7 +8,7 @@ main:
     code: https://github.com/wangyuji1/RLScanIQA
     bibtex: https://openreview.net/forum?id=XwFXJ38jET
     notes: Accepted
-    image: ./assets/img/paper/STVLO
+    image: ./assets/img/paper/STVLO.gif
     
   - title: "RL‑ScanIQA: Reinforcement-Learned Scanpaths for Blind 360° Image Quality Assessment"
     authors: Yujia Wang, Yuyan Li, Jiuming Liu, Fang-Lue Zhang, Xinhu Zheng, Neil.A Dodgson 

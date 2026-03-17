@@ -18,7 +18,7 @@ main:
     code: https://github.com/wangyuji1/RLScanIQA
     bibtex: https://arxiv.org/abs/2603.14297
     notes: Accepted
-    image: ./assets/img/paper/RL-SCANIQA
+    image: ./assets/img/paper/RL-SCANIQA.png
     
   - title: "ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting"
     authors: Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang 

@@ -1,4 +1,14 @@
 main:  
+  - title: "RL‑ScanIQA: Reinforcement-Learned Scanpaths for Blind 360° Image Quality Assessment"
+    authors: Yujia Wang, Yuyan Li, Jiuming Liu, Fang-Lue Zhang, Xinhu Zheng, Neil.A Dodgson 
+    conference_short: CVPR 2026
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+    pdf: https://arxiv.org/abs/2603.14297
+    code: https://github.com/wangyuji1/RLScanIQA
+    bibtex: https://arxiv.org/abs/2603.14297
+    notes: Accepted
+    image: ./assets/img/paper/RL-SCANIQA
+    
   - title: "ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting"
     authors: Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang 
     conference_short: ICLR 2026

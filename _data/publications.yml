@@ -14,9 +14,9 @@ main:
     authors: Mengmeng Liu, Jiuming Liu, Michael Ying Yang, Chaokang Jiang, Jiangtao Li, Yunpeng Zhang, Hesheng Wang, Francesco Nex, Hao Cheng
     conference_short: CVPR 2026 Highlight
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
-    pdf: https://openreview.net/forum?id=XwFXJ38jET
+    pdf: https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_StreamVLO_Streaming_Visual-LiDAR_Odometry_with_Cumulative_Drift_Compensation_CVPR_2026_paper.pdf
     code: https://github.com/wangyuji1/RLScanIQA
-    bibtex: https://openreview.net/forum?id=XwFXJ38jET
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GiXCkmRuPnkJ:scholar.google.com/&output=citation&scisdr=Cli-S29qEKSyhMumFkc:AFyMTJUAAAAAahugDkfkNUpJxFTUBYJPuKi2el8&scisig=AFyMTJUAAAAAahugDv4hDz3WcwyppsxMQdjWlXE&scisf=4&ct=citation&cd=-1&hl=en
     notes: Highlight
     image: ./assets/img/paper/STVLO.gif
     

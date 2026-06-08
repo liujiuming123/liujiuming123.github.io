@@ -13,7 +13,7 @@ My research interests include a wide range of computer vision fields, especially
 ## Research Interests
 
 - **Computer Vision:** 2D/3D/4D vision
-- **World Model:** video/point-based open world understanding and generation with diffusion
+- **World Model:** video/point-based world understanding and generation
 - **Human-Scene Interaction:** immersive experiences in VR and robotics
 - **Point Cloud Understanding:** point cloud processing & registration
 - **Learning-based SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry
@@ -21,8 +21,9 @@ My research interests include a wide range of computer vision fields, especially
 - **Motion Learning :** optical flow estimation, scene flow estimation, 4D point video
 
 ## News
-- **[Apr. 2026]** One paper about vector graph-based world model is accepted by [ICML2026](https://icml.cc/).
-- **[Feb. 2026]** Two papers about streamlined VLO and RL-based 360 saliency prediction are accepted by [CVPR2026](https://cvpr.thecvf.com/Conferences/2026).
+- **[Jun. 2026]** Our survey paper about interactive world model is released as preprint.
+- **[Apr. 2026]** One paper about vector graph-based world model is accepted by [ICML2026](https://icml.cc/) as Spotlight.
+- **[Feb. 2026]** Two papers about streamVLO and RL-based 360 saliency prediction are accepted by [CVPR2026](https://cvpr.thecvf.com/Conferences/2026). streamVLO is selected as Highlight.
 - **[Jan. 2026]** One paper “ARFlow” about autoregressive optical flow estimation is accepted by [ICLR2026](https://iclr.cc/).
 - **[Nov. 2025]** One paper “4DSTR” about 4D generation is accepted by [AAAI2026](https://aaai.org/conference/aaai/aaai-26/).
 - **[Oct. 2025]** The journal version of our DifFlow3D about scene flow and 4D scene reconstruction is accepted by [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).

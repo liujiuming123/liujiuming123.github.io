@@ -1,5 +1,15 @@
 main:  
 
+  - title: "Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends"
+    authors: Jiuming Liu, Chaojun Ni, Mengmeng Liu, Chensheng Peng, Fangjinhua Wang, Sitian Shen, Marc Pollefeys, Masayoshi Tomizuka, Ayush Tewari, Per Ola Kristensson
+    conference_short: Arxiv 2026 
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2606.01164
+    code: https://github.com/liujiuming123/Awesome-Interactive-World-Model
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bTtIlYayIwkJ:scholar.google.com/&output=citation&scisdr=CtTUFrRqEKSyhPaFAZE:ANDmEU4AAAAAaiaDGZEkSdIkxzsetLFShfMqCLc&scisig=ANDmEU4AAAAAaiaDGariRleRfxJY9LeInC5zni8&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Arxiv
+    image: ./assets/img/paper/survey.png
+    
   - title: "VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs"
     authors: Chaokang Jiang, Desen Zhou, Jiuming Liu, Li Sun
     conference_short: ICML 2026 Spotlight

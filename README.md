@@ -1,7 +1,4 @@
----
-topics: 蒋超康, Chaokang-Jiang, computer-vision, deep-learning, point-cloud-processing, Jiang Chaokang, Chaokang-Jiang, Chaokang
----
-https://jiangchaokang.github.io/
+
 
 # The Minimal Light Theme
 

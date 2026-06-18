@@ -22,7 +22,7 @@ My research interests include a wide range of computer vision fields, especially
 
 ## News
 - **[Jun. 2026]** One paper about world action model in AR is accepted by [ECCV2026](https://eccv.ecva.net/).
-- **[Jun. 2026]** Our survey paper about interactive world model is released as preprint.
+- **[May. 2026]** Our survey paper about interactive world model is released as preprint.
 - **[Apr. 2026]** One paper about vector graph-based world model is accepted by [ICML2026](https://icml.cc/) as Spotlight.
 - **[Feb. 2026]** Two papers about streamVLO and RL-based 360 saliency prediction are accepted by [CVPR2026](https://cvpr.thecvf.com/Conferences/2026). streamVLO is selected as Highlight.
 - **[Jan. 2026]** One paper “ARFlow” about autoregressive optical flow estimation is accepted by [ICLR2026](https://iclr.cc/).

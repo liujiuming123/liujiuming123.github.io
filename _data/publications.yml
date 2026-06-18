@@ -9,6 +9,16 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bTtIlYayIwkJ:scholar.google.com/&output=citation&scisdr=CtTUFrRqEKSyhPaFAZE:ANDmEU4AAAAAaiaDGZEkSdIkxzsetLFShfMqCLc&scisig=ANDmEU4AAAAAaiaDGariRleRfxJY9LeInC5zni8&scisf=4&ct=citation&cd=-1&hl=en
     notes: Arxiv
     image: ./assets/img/paper/survey.png
+
+  - title: "DriveVA: Video Action Models are Zero-Shot Drivers"
+    authors: Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, and Hao Cheng
+    conference_short: ECCV 2026 
+    conference: ECCV
+    pdf: https://arxiv.org/pdf/2604.04198
+    code: https://github.com/liujiuming123/Awesome-Interactive-World-Model
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rVp3DeCDiS8J:scholar.google.com/&output=citation&scisdr=CtQlSG_fEPKq1OLDka8:ANDmEU4AAAAAajPFia-bKlWmtq4gmUpum7Ttlck&scisig=ANDmEU4AAAAAajPFiZqHhtQ7Il65zk9vdIJ1I1w&scisf=4&ct=citation&cd=-1&hl=en
+    notes: ECCV
+    image: ./assets/img/paper/driveva.png
     
   - title: "VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs"
     authors: Chaokang Jiang, Desen Zhou, Jiuming Liu, Li Sun

@@ -13,7 +13,7 @@ My research interests include a wide range of computer vision fields, especially
 ## Research Interests
 
 - **Computer Vision:** 2D/3D/4D vision
-- **World Model:** video/point-based world understanding and generation
+- **World Model:** interactive action-conditioned WM, WAM, VLA
 - **Human-Scene Interaction:** immersive experiences in VR and robotics
 - **Point Cloud Understanding:** point cloud processing & registration
 - **Learning-based SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry
@@ -21,6 +21,7 @@ My research interests include a wide range of computer vision fields, especially
 - **Motion Learning :** optical flow estimation, scene flow estimation, 4D point video
 
 ## News
+- **[Jun. 2026]** One paper about world action model in AR is accepted by [ECCV2026](https://eccv.ecva.net/).
 - **[Jun. 2026]** Our survey paper about interactive world model is released as preprint.
 - **[Apr. 2026]** One paper about vector graph-based world model is accepted by [ICML2026](https://icml.cc/) as Spotlight.
 - **[Feb. 2026]** Two papers about streamVLO and RL-based 360 saliency prediction are accepted by [CVPR2026](https://cvpr.thecvf.com/Conferences/2026). streamVLO is selected as Highlight.

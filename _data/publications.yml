@@ -7,29 +7,49 @@ main:
     pdf: https://arxiv.org/abs/2606.01164
     code: https://github.com/liujiuming123/Awesome-Interactive-World-Model
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bTtIlYayIwkJ:scholar.google.com/&output=citation&scisdr=CtTUFrRqEKSyhPaFAZE:ANDmEU4AAAAAaiaDGZEkSdIkxzsetLFShfMqCLc&scisig=ANDmEU4AAAAAaiaDGariRleRfxJY9LeInC5zni8&scisf=4&ct=citation&cd=-1&hl=en
-    notes: Arxiv
+    notes: Preprint
     image: ./assets/img/paper/survey.png
+    
+  - title: "ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting"
+    authors: Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang 
+    conference_short: ICLR 2026
+    conference: The Fourteenth International Conference on Learning Representations 2026
+    pdf: https://openreview.net/forum?id=iJ7cyttpVj
+    code: https://github.com/liujiuming123/ICLR2026-ARFlow
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hpchPkZRb6wJ:scholar.google.com/&output=citation&scisdr=Cl97RdZqEPynzWaaeto:AFtJQiwAAAAAaaqcYtrT3IohkF5uIwtaxM2a0as&scisig=AFtJQiwAAAAAaaqcYokUlATt3tgp42-PtpbsIvk&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Published
+    image: ./assets/img/paper/optical.gif
 
   - title: "DriveVA: Video Action Models are Zero-Shot Drivers"
     authors: Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, and Hao Cheng
     conference_short: ECCV 2026 
-    conference: ECCV
+    conference: The 19th European Conference on Computer Vision 2026
     pdf: https://arxiv.org/pdf/2604.04198
     code: https://github.com/liujiuming123/Awesome-Interactive-World-Model
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rVp3DeCDiS8J:scholar.google.com/&output=citation&scisdr=CtQlSG_fEPKq1OLDka8:ANDmEU4AAAAAajPFia-bKlWmtq4gmUpum7Ttlck&scisig=ANDmEU4AAAAAajPFiZqHhtQ7Il65zk9vdIJ1I1w&scisf=4&ct=citation&cd=-1&hl=en
-    notes: ECCV
+    notes: Accepted
     image: ./assets/img/paper/driveva.png
     
   - title: "VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs"
     authors: Chaokang Jiang, Desen Zhou, Jiuming Liu, Li Sun
     conference_short: ICML 2026 Spotlight
-    conference: Forty-Third International Conference on Machine Learning
+    conference: Forty-Third International Conference on Machine Learning 2026
     pdf: https://arxiv.org/pdf/2603.17652
     code: https://github.com/jiangchaokang/VectorWorld
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JN28bjq0cMkJ:scholar.google.com/&output=citation&scisdr=Clih2ckHEIrArsFzcNg:AFyMTJUAAAAAahF1aNg3HrW_zWBcu8f8ULVxFrU&scisig=AFyMTJUAAAAAahF1aJWyZKQNmSKQZCj4K1YxcmY&scisf=4&ct=citation&cd=-1&hl=en
     notes: Spotlight
     image: ./assets/img/paper/vector.gif
     
+  - title: "RL‑ScanIQA: Reinforcement-Learned Scanpaths for Blind 360° Image Quality Assessment"
+    authors: Yujia Wang, Yuyan Li, Jiuming Liu, Fang-Lue Zhang, Xinhu Zheng, Neil.A Dodgson 
+    conference_short: CVPR 2026
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+    pdf: https://arxiv.org/abs/2603.14297
+    code: https://github.com/wangyuji1/RLScanIQA
+    bibtex: https://arxiv.org/abs/2603.14297
+    notes: Published
+    image: ./assets/img/paper/RL-SCANIQA.png
+  
   - title: "StreamVLO: Streaming Visual-LiDAR Odometry with Cumulative Drift Compensation"
     authors: Mengmeng Liu, Jiuming Liu, Michael Ying Yang, Chaokang Jiang, Jiangtao Li, Yunpeng Zhang, Hesheng Wang, Francesco Nex, Hao Cheng
     conference_short: CVPR 2026 Highlight
@@ -39,26 +59,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GiXCkmRuPnkJ:scholar.google.com/&output=citation&scisdr=Cli-S29qEKSyhMumFkc:AFyMTJUAAAAAahugDkfkNUpJxFTUBYJPuKi2el8&scisig=AFyMTJUAAAAAahugDv4hDz3WcwyppsxMQdjWlXE&scisf=4&ct=citation&cd=-1&hl=en
     notes: Highlight
     image: ./assets/img/paper/STVLO.gif
-    
-  - title: "RL‑ScanIQA: Reinforcement-Learned Scanpaths for Blind 360° Image Quality Assessment"
-    authors: Yujia Wang, Yuyan Li, Jiuming Liu, Fang-Lue Zhang, Xinhu Zheng, Neil.A Dodgson 
-    conference_short: CVPR 2026
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
-    pdf: https://arxiv.org/abs/2603.14297
-    code: https://github.com/wangyuji1/RLScanIQA
-    bibtex: https://arxiv.org/abs/2603.14297
-    notes: Accepted
-    image: ./assets/img/paper/RL-SCANIQA.png
-    
-  - title: "ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting"
-    authors: Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang 
-    conference_short: ICLR 2026
-    conference: The Fourteenth International Conference on Learning Representations
-    pdf: https://openreview.net/forum?id=iJ7cyttpVj
-    code: https://github.com/liujiuming123/ICLR2026-ARFlow
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hpchPkZRb6wJ:scholar.google.com/&output=citation&scisdr=Cl97RdZqEPynzWaaeto:AFtJQiwAAAAAaaqcYtrT3IohkF5uIwtaxM2a0as&scisig=AFtJQiwAAAAAaaqcYokUlATt3tgp42-PtpbsIvk&scisf=4&ct=citation&cd=-1&hl=en
-    notes: Accepted
-    image: ./assets/img/paper/optical.gif
     
   - title: "4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation"
     authors: Mengmeng Liu, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng 

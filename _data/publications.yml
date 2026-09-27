@@ -1,5 +1,14 @@
 main:  
 
+  - title: "UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation"
+    authors: Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Francesco Nex, Hao Cheng, Michael Ying Yang
+    conference_short: NeurIPS 2026 
+    conference: NeurIPS
+    pdf: https://arxiv.org/pdf/2607.05133
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dT2wbl85tOAJ:scholar.google.com/&output=citation&scisdr=CiDUmuzCEM3UiW39tp8:ACTRDVEAAAAAarj7rp4T4cGiNpkV58yWhnTTSjk&scisig=ACTRDVEAAAAAarj7rsaQ_v8Z9T_rgihhyuKVmyE&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
+    image: ./assets/img/paper/universe.png
+
   - title: "Towards Interactive Video World Modeling: Frontiers, Challenges, Benchmarks, and Future Trends"
     authors: Jiuming Liu, Chaojun Ni, Mengmeng Liu, Chensheng Peng, Fangjinhua Wang, Sitian Shen, Marc Pollefeys, Masayoshi Tomizuka, Ayush Tewari, Per Ola Kristensson
     conference_short: Arxiv 2026 
@@ -27,7 +36,7 @@ main:
     pdf: https://arxiv.org/pdf/2604.04198
     code: https://github.com/liujiuming123/Awesome-Interactive-World-Model
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rVp3DeCDiS8J:scholar.google.com/&output=citation&scisdr=CtQlSG_fEPKq1OLDka8:ANDmEU4AAAAAajPFia-bKlWmtq4gmUpum7Ttlck&scisig=ANDmEU4AAAAAajPFiZqHhtQ7Il65zk9vdIJ1I1w&scisf=4&ct=citation&cd=-1&hl=en
-    notes: Accepted
+    notes: Published
     image: ./assets/img/paper/driveva.png
     
   - title: "VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs"

@@ -1,7 +1,7 @@
 main:  
 
   - title: "MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting"
-    authors: Jiuming_Liu, Jianing Li, Mengmeng Liu, Hongyang He, Hesheng Wang, Per Ola Kristensson 
+    authors: Jiuming Liu, Jianing Li, Mengmeng Liu, Hongyang He, Hesheng Wang, Per Ola Kristensson 
     conference_short: NeurIPS 2026
     conference: NeurIPS
     notes: Accepted

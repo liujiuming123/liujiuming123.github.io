@@ -4,9 +4,9 @@ layout: homepage
 
 ## Jiuming Liu (刘久铭)
 
-I am a second-year PhD student in the Intelligent Interactive Systems Group, [Machine Intelligence Lab](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/machine-intelligence-laboratory) from [Department of Engineering, University of Cambridge](https://www.eng.cam.ac.uk/), supervised by Professor [Per Ola Kristensson](https://pokristensson.com/). I also work closely with Professor [Ayush Tewari](https://ayushtewari.com/) and Professor [Shangzhe (Elliott) Wu](https://www.elliottwu.com/) from the computer vision group. My doctoral study is generously fully-funded by the [Trinity Hall International Scholarship](https://www.trinhall.cam.ac.uk/study-with-us/postgraduate-study/postgraduate-research-studentships/) and [Cambridge Trust](https://www.cambridgetrust.org/our-scholarships/highlighted-scholarships). Previously, I got my master degree at the [IRMV Lab](https://irmv.sjtu.edu.cn/) from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), luckily supervised by Professor [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng). 
+I am a second-year PhD student in the Intelligent Interactive Systems Group, [Machine Intelligence Lab](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/machine-intelligence-laboratory) from [Department of Engineering, University of Cambridge](https://www.eng.cam.ac.uk/), supervised by Professor [Per Ola Kristensson](https://pokristensson.com/). I also work closely with Professor [Ayush Tewari](https://ayushtewari.com/) and Professor [Shangzhe (Elliott) Wu](https://www.elliottwu.com/) from the computer vision group. My doctoral study is generously fully-funded by the [Trinity Hall International Scholarship](https://www.trinhall.cam.ac.uk/study-with-us/postgraduate-study/postgraduate-research-studentships/) and [Cambridge Trust](https://www.cambridgetrust.org/our-scholarships/highlighted-scholarships). Previously, I got my master degree at the [IRMV Lab](https://irmv.sjtu.edu.cn/) from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), luckily supervised by Professor [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng).
 
-My research interests include a wide range of computer vision fields, especially how to perceive, comprehend, reconstruct, generate, and interact with realistic 2D/3D/4D worlds. I also visited the T Stone Robotics Institute at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Professor [Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/), and visited the DAMTP, [University of Cambridge](https://www.cam.ac.uk/), advised by Professor [Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/). I have published various top-tier papers in computer vision, machine learning, and robotics, including T-PAMI, CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, ICRA, and IROS. I also actively served as the reviewer of conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ICRA, IROS, and AAAI, and journals like IJCV, TCSVT, TGRS, TASE, IEEE RAL, etc. 
+My research interests include a wide range of computer vision fields, especially how to perceive, comprehend, reconstruct, generate, and interact with realistic 2D/3D/4D worlds. I also visited the T Stone Robotics Institute at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Professor [Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/), and visited the DAMTP, [University of Cambridge](https://www.cam.ac.uk/), advised by Professor [Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/). I have published various top-tier papers in computer vision, machine learning, and robotics, including T-PAMI, CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, ICRA, and IROS. I also actively served as the reviewer of conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ICRA, IROS, and AAAI, and journals like IJCV, TCSVT, TGRS, TASE, IEEE RAL, etc.
 
 **Feel free to cooperate by contacting me at email: liujiuming123@gmail.com**.
 
@@ -21,6 +21,9 @@ My research interests include a wide range of computer vision fields, especially
 - **Motion Learning :** optical flow estimation, scene flow estimation, 4D point video
 
 ## News
+
+<div class="news-scroll" tabindex="0" role="region" aria-label="News. Scroll down for older items." markdown="1">
+
 - **[Sep. 2026]** Four papers are accepted by [NeurIPS 2026](https://neurips.cc/Conferences/2026), with one Oral.
 - **[Jun. 2026]** One paper about world action model in AR is accepted by [ECCV2026](https://eccv.ecva.net/).
 - **[May. 2026]** Our survey paper about interactive world model is released as preprint.
@@ -32,12 +35,63 @@ My research interests include a wide range of computer vision fields, especially
 - **[Jun. 2025]** **Three papers** about LiDAR generation, Gaussian splatting, and SLAM are accepted by [IROS2025](https://www.iros25.org/).
 - **[Feb. 2025]** Our paper “Mamba4D” is accepted by [CVPR2025](https://cvpr.thecvf.com/Conferences/2025).
 - **[Jan. 2025]** Our paper “DVLO4D” is accepted by [ICRA2025](https://2025.ieee-icra.org/).
-- **[Sep. 2024]** **Two papers** about semantic segmentation and Gaussian Splatting-based point cloud interpolation are accepted by [NeurIPS 2024](https://neurips.cc/). 
+- **[Sep. 2024]** **Two papers** about semantic segmentation and Gaussian Splatting-based point cloud interpolation are accepted by [NeurIPS 2024](https://neurips.cc/).
 - **[Aug. 2024]** Our paper “DVLO” is selected as the **Oral** presentation in [ECCV 2024](https://eccv2024.ecva.net/).
 - **[Jul. 2024]** Our paper “DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment” is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
 - **[Feb. 2024]** Our paper "3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling" is accepted to [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_3DSFLabelling_Boosting_3D_Scene_Flow_Estimation_by_Pseudo_Auto-labelling_CVPR_2024_paper.html).
 - **[Feb. 2024]** Our paper "DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement" is accepted to [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_DifFlow3D_Toward_Robust_Uncertainty-Aware_Scene_Flow_Estimation_with_Iterative_Diffusion-Based_CVPR_2024_paper.html).
 - **[Feb. 2024]** Our paper “SNI-SLAM: Semantic Neural Implicit SLAM” is accepted to [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.html).
+
+</div>
+
+<p class="news-scroll-hint" aria-hidden="true">Scroll for older news ↓</p>
+
+<script>
+  (function () {
+    var visibleNewsItems = 4;
+    var resizeTimer;
+
+    function updateNewsHeight() {
+      document.querySelectorAll('.news-scroll').forEach(function (container) {
+        var list = container.querySelector('ul');
+        var items = list ? list.querySelectorAll(':scope > li') : [];
+
+        if (items.length <= visibleNewsItems) {
+          container.classList.remove('is-scrollable');
+          container.style.removeProperty('--news-collapsed-height');
+          return;
+        }
+
+        var listTop = list.getBoundingClientRect().top;
+        var fourthItemBottom = items[visibleNewsItems - 1].getBoundingClientRect().bottom;
+
+        container.style.setProperty(
+          '--news-collapsed-height',
+          Math.floor(fourthItemBottom - listTop) + 'px'
+        );
+        container.classList.add('is-scrollable');
+      });
+    }
+
+    function scheduleNewsHeightUpdate() {
+      window.clearTimeout(resizeTimer);
+      resizeTimer = window.setTimeout(updateNewsHeight, 80);
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', updateNewsHeight);
+    } else {
+      updateNewsHeight();
+    }
+
+    window.addEventListener('load', updateNewsHeight);
+    window.addEventListener('resize', scheduleNewsHeightUpdate);
+
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(updateNewsHeight);
+    }
+  }());
+</script>
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}

@@ -4,9 +4,9 @@ layout: homepage
 
 ## Jiuming Liu (刘久铭)
 
-I am a first-year PhD student in the [Machine Intelligence Lab](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/machine-intelligence-laboratory) from [Department of Engineering, University of Cambridge](https://www.eng.cam.ac.uk/), supervised by Professor [Per Ola Kristensson](https://pokristensson.com/). I also work closely with Professor [Ayush Tewari](https://ayushtewari.com/) and Professor [Shangzhe (Elliott) Wu](https://www.elliottwu.com/) from the computer vision group. My doctoral study is generously fully-funded by the [Trinity Hall International Scholarship](https://www.trinhall.cam.ac.uk/study-with-us/postgraduate-study/postgraduate-research-studentships/) and [Cambridge Trust](https://www.cambridgetrust.org/our-scholarships/highlighted-scholarships). Previously, I got my master degree at the [IRMV Lab](https://irmv.sjtu.edu.cn/) from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), supervised by Professor [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng). 
+I am a second-year PhD student from the Intelligent Interactive Systems Group in the [Machine Intelligence Lab](https://www.eng.cam.ac.uk/research/academic-divisions/information-engineering/research-groups/machine-intelligence-laboratory) from [Department of Engineering, University of Cambridge](https://www.eng.cam.ac.uk/), supervised by Professor [Per Ola Kristensson](https://pokristensson.com/). I also work closely with Professor [Ayush Tewari](https://ayushtewari.com/) and Professor [Shangzhe (Elliott) Wu](https://www.elliottwu.com/) from the computer vision group. My doctoral study is generously fully-funded by the [Trinity Hall International Scholarship](https://www.trinhall.cam.ac.uk/study-with-us/postgraduate-study/postgraduate-research-studentships/) and [Cambridge Trust](https://www.cambridgetrust.org/our-scholarships/highlighted-scholarships). Previously, I got my master degree at the [IRMV Lab](https://irmv.sjtu.edu.cn/) from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), luckily supervised by Professor [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng). 
 
-My research interests include a wide range of computer vision fields, especially how to perceive, comprehend, reconstruct, generate, and interact with realistic 2D/3D/4D worlds. I also visited the T Stone Robotics Institute at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Professor [Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/), and visited the DAMTP, [University of Cambridge](https://www.cam.ac.uk/), advised by Professor [Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/). I have published various top-tier papers in computer vision, machine learning, and robotics, including T-PAMI, CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, ICRA, and IROS. I also actively served as the reviewer of conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ICRA, IROS, BMVC, and AAAI, and journals like IJCV, TCSVT, TASE, IEEE RAL, etc. 
+My research interests include a wide range of computer vision fields, especially how to perceive, comprehend, reconstruct, generate, and interact with realistic 2D/3D/4D worlds. I also visited the T Stone Robotics Institute at [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Professor [Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/), and visited the DAMTP, [University of Cambridge](https://www.cam.ac.uk/), advised by Professor [Angelica Aviles-Rivero](https://angelicaiaviles.wordpress.com/). I have published various top-tier papers in computer vision, machine learning, and robotics, including T-PAMI, CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, ICRA, and IROS. I also actively served as the reviewer of conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ICRA, IROS, and AAAI, and journals like IJCV, TCSVT, TGRS, TASE, IEEE RAL, etc. 
 
 **Feel free to cooperate by contacting me at email: liujiuming123@gmail.com**.
 
@@ -16,11 +16,12 @@ My research interests include a wide range of computer vision fields, especially
 - **World Model:** interactive action-conditioned WM, WAM, VLA
 - **Human-Scene Interaction:** immersive experiences in VR and robotics
 - **Point Cloud Understanding:** point cloud processing & registration
-- **Learning-based SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry
-- **Neural Rendering:** NeRF, 3D Gaussian Splatting
+- **Visual/LiDAR SLAM:** front-end LiDAR/Visual odometry, multi-modal fused odometry
+- **3D Reconstruction:** NeRF, 3D Gaussian Splatting
 - **Motion Learning :** optical flow estimation, scene flow estimation, 4D point video
 
 ## News
+- **[Sep. 2026]** Four papers are accepted by [NeurIPS 2026](https://neurips.cc/Conferences/2026), with one Oral.
 - **[Jun. 2026]** One paper about world action model in AR is accepted by [ECCV2026](https://eccv.ecva.net/).
 - **[May. 2026]** Our survey paper about interactive world model is released as preprint.
 - **[Apr. 2026]** One paper about vector graph-based world model is accepted by [ICML2026](https://icml.cc/) as Spotlight.

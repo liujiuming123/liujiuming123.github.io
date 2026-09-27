@@ -3,21 +3,21 @@ main:
   - title: "MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers"
     authors: Jiuming Liu, Mengmeng Liu, Guangming Wang, Lihao Liu, Michael Ying Yang, Yunpeng Zhang, Francesco Nex, Hao Cheng, Hesheng Wang  
     conference_short: NeurIPS 2026
-    conference: The Fortieth Annual Conference on Neural Information Processing Systems 
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026
     notes: Accepted
     image: ./assets/img/paper/memreg.png
 
   - title: "MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting"
     authors: Jiuming Liu, Jianing Li, Mengmeng Liu, Hongyang He, Hesheng Wang, Per Ola Kristensson 
     conference_short: NeurIPS 2026
-    conference: The Fortieth Annual Conference on Neural Information Processing Systems
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026
     notes: Accepted
     image: ./assets/img/paper/messenger.png
 
   - title: "SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild"
     authors: Xuyi Hu, Jin Lyu, Jiuming Liu, Yebin Liu, Silvia Zuffi, Liang An, Stefan Goetz
     conference_short: NeurIPS 2026 Oral
-    conference: The Fortieth Annual Conference on Neural Information Processing Systems
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026
     pdf: https://arxiv.org/abs/2605.07604
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JnsoYrfq-gwJ:scholar.google.com/&output=citation&scisdr=CiDUmuzDEM3UiW37K2w:ACTRDVEAAAAAarj9M20A0-UpdGQaug3PtDT78sQ&scisig=ACTRDVEAAAAAarj9M12G_MD0XqGa9RY2RqmufN4&scisf=4&ct=citation&cd=-1&hl=en
     notes: Oral
@@ -26,7 +26,7 @@ main:
   - title: "UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation"
     authors: Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Francesco Nex, Hao Cheng, Michael Ying Yang
     conference_short: NeurIPS 2026 
-    conference: The Fortieth Annual Conference on Neural Information Processing Systems
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026
     pdf: https://arxiv.org/pdf/2607.05133
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dT2wbl85tOAJ:scholar.google.com/&output=citation&scisdr=CiDUmuzCEM3UiW39tp8:ACTRDVEAAAAAarj7rp4T4cGiNpkV58yWhnTTSjk&scisig=ACTRDVEAAAAAarj7rsaQ_v8Z9T_rgihhyuKVmyE&scisf=4&ct=citation&cd=-1&hl=en
     notes: Accepted
@@ -45,7 +45,7 @@ main:
   - title: "ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting"
     authors: Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang 
     conference_short: ICLR 2026
-    conference: The Fourteenth International Conference on Learning Representations 2026
+    conference: The Fourteenth International Conference on Learning Representations (ICLR) 2026
     pdf: https://openreview.net/forum?id=iJ7cyttpVj
     code: https://github.com/liujiuming123/ICLR2026-ARFlow
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hpchPkZRb6wJ:scholar.google.com/&output=citation&scisdr=Cl97RdZqEPynzWaaeto:AFtJQiwAAAAAaaqcYtrT3IohkF5uIwtaxM2a0as&scisig=AFtJQiwAAAAAaaqcYokUlATt3tgp42-PtpbsIvk&scisf=4&ct=citation&cd=-1&hl=en
@@ -55,7 +55,7 @@ main:
   - title: "DriveVA: Video Action Models are Zero-Shot Drivers"
     authors: Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, and Hao Cheng
     conference_short: ECCV 2026 
-    conference: The 19th European Conference on Computer Vision 2026
+    conference: The 19th European Conference on Computer Vision (ECCV) 2026
     pdf: https://arxiv.org/pdf/2604.04198
     code: https://github.com/liujiuming123/Awesome-Interactive-World-Model
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rVp3DeCDiS8J:scholar.google.com/&output=citation&scisdr=CtQlSG_fEPKq1OLDka8:ANDmEU4AAAAAajPFia-bKlWmtq4gmUpum7Ttlck&scisig=ANDmEU4AAAAAajPFiZqHhtQ7Il65zk9vdIJ1I1w&scisf=4&ct=citation&cd=-1&hl=en
@@ -65,7 +65,7 @@ main:
   - title: "VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs"
     authors: Chaokang Jiang, Desen Zhou, Jiuming Liu, Li Sun
     conference_short: ICML 2026 Spotlight
-    conference: Forty-Third International Conference on Machine Learning 2026
+    conference: Forty-Third International Conference on Machine Learning (ICML) 2026
     pdf: https://arxiv.org/pdf/2603.17652
     code: https://github.com/jiangchaokang/VectorWorld
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JN28bjq0cMkJ:scholar.google.com/&output=citation&scisdr=Clih2ckHEIrArsFzcNg:AFyMTJUAAAAAahF1aNg3HrW_zWBcu8f8ULVxFrU&scisig=AFyMTJUAAAAAahF1aJWyZKQNmSKQZCj4K1YxcmY&scisf=4&ct=citation&cd=-1&hl=en

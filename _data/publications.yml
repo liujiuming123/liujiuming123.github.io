@@ -3,21 +3,21 @@ main:
   - title: "MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers"
     authors: Jiuming Liu, Mengmeng Liu, Guangming Wang, Lihao Liu, Michael Ying Yang, Yunpeng Zhang, Francesco Nex, Hao Cheng, Hesheng Wang  
     conference_short: NeurIPS 2026
-    conference: NeurIPS
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems 
     notes: Accepted
     image: ./assets/img/paper/memreg.png
 
   - title: "MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting"
     authors: Jiuming Liu, Jianing Li, Mengmeng Liu, Hongyang He, Hesheng Wang, Per Ola Kristensson 
     conference_short: NeurIPS 2026
-    conference: NeurIPS
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems
     notes: Accepted
     image: ./assets/img/paper/messenger.png
 
   - title: "SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild"
     authors: Xuyi Hu, Jin Lyu, Jiuming Liu, Yebin Liu, Silvia Zuffi, Liang An, Stefan Goetz
     conference_short: NeurIPS 2026 Oral
-    conference: NeurIPS Oral
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems
     pdf: https://arxiv.org/abs/2605.07604
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JnsoYrfq-gwJ:scholar.google.com/&output=citation&scisdr=CiDUmuzDEM3UiW37K2w:ACTRDVEAAAAAarj9M20A0-UpdGQaug3PtDT78sQ&scisig=ACTRDVEAAAAAarj9M12G_MD0XqGa9RY2RqmufN4&scisf=4&ct=citation&cd=-1&hl=en
     notes: Accepted
@@ -26,7 +26,7 @@ main:
   - title: "UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation"
     authors: Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Francesco Nex, Hao Cheng, Michael Ying Yang
     conference_short: NeurIPS 2026 
-    conference: NeurIPS
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems
     pdf: https://arxiv.org/pdf/2607.05133
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dT2wbl85tOAJ:scholar.google.com/&output=citation&scisdr=CiDUmuzCEM3UiW39tp8:ACTRDVEAAAAAarj7rp4T4cGiNpkV58yWhnTTSjk&scisig=ACTRDVEAAAAAarj7rsaQ_v8Z9T_rgihhyuKVmyE&scisf=4&ct=citation&cd=-1&hl=en
     notes: Accepted

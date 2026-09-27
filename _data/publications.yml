@@ -1,5 +1,14 @@
 main:  
 
+  - title: "SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild"
+    authors: Xuyi Hu, Jin Lyu, Jiuming Liu, Yebin Liu, Silvia Zuffi, Liang An, Stefan Goetz
+    conference_short: NeurIPS 2026 Oral
+    conference: NeurIPS Oral
+    pdf: https://arxiv.org/abs/2605.07604
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JnsoYrfq-gwJ:scholar.google.com/&output=citation&scisdr=CiDUmuzDEM3UiW37K2w:ACTRDVEAAAAAarj9M20A0-UpdGQaug3PtDT78sQ&scisig=ACTRDVEAAAAAarj9M12G_MD0XqGa9RY2RqmufN4&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Accepted
+    image: ./assets/img/paper/sam3dani.png
+
   - title: "UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation"
     authors: Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Francesco Nex, Hao Cheng, Michael Ying Yang
     conference_short: NeurIPS 2026 

@@ -1,5 +1,12 @@
 main:  
 
+  - title: "MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting"
+    authors: Jiuming_Liu, Jianing Li, Mengmeng Liu, Hongyang He, Hesheng Wang, Per Ola Kristensson 
+    conference_short: NeurIPS 2026
+    conference: NeurIPS
+    notes: Accepted
+    image: ./assets/img/paper/messenger.png
+
   - title: "SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild"
     authors: Xuyi Hu, Jin Lyu, Jiuming Liu, Yebin Liu, Silvia Zuffi, Liang An, Stefan Goetz
     conference_short: NeurIPS 2026 Oral
